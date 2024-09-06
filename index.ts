@@ -1,0 +1,1 @@
+export const hey = (name: string) => `Hey, ${name}`
